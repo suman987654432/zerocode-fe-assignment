@@ -97,13 +97,11 @@ project/
 ## 📱 Screenshots
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <img src="https://via.placeholder.com/400x800/4F46E5/FFFFFF?text=Mobile+View" width="30%" alt="Mobile View" />
-    <img src="https://via.placeholder.com/800x600/4F46E5/FFFFFF?text=Desktop+View" width="65%" alt="Desktop View" />
+    <img src="./src/assets/mobile.png" width="30%" alt="Mobile View" />
+    <img src="./src/assets/desktop.png"
+    width="65%" alt="Desktop View" />
 </div>
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://via.placeholder.com/800x600/111827/FFFFFF?text=Dark+Mode" width="48%" alt="Dark Mode" />
-    <img src="https://via.placeholder.com/800x600/F9FAFB/333333?text=Light+Mode" width="48%" alt="Light Mode" />
-</div>
+
 
 ## 🔒 Privacy
 

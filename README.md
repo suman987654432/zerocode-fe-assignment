@@ -1,6 +1,7 @@
 # Chat Assistant - Interactive React Chat Application
 
-![Chat Assistant Banner](https://via.placeholder.com/1200x300/4F46E5/FFFFFF?text=Chat+Assistant)
+## 🌐 Live Demo
+**Try it now:** [https://zerocode-fe-assignment-zeta.vercel.app/](https://zerocode-fe-assignment-zeta.vercel.app/)
 
 ## 🚀 Overview
 
@@ -61,7 +62,7 @@ project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chat-assistant.git
+   git clone https://github.com/suman987654432/zerocode-fe-assignment
    cd chat-assistant
    ```
 
@@ -81,7 +82,7 @@ project/
 
 4. Open your browser and visit:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## 💡 Usage
@@ -119,4 +120,5 @@ This project is [MIT](LICENSE) licensed.
 
 ---
 
-Made Suman Kumar
+Made  by Suman Kumar
+Email btech22.suman.kumar@sunstone.edu.in 
